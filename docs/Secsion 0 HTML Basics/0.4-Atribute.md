@@ -58,7 +58,7 @@ En resumen, los atributos son esenciales para que HTML no solo defina la estruct
 
 La `<a>`etiqueta define un hipervínculo. El hrefatributo especifica la URL de la página a la que dirige el enlace:
 
-### Ejemplo De href
+### Ejemplo De `href`
 
 ```html
 <a href="https://www.w3schools.com">Visit W3Schools</a>
@@ -66,7 +66,7 @@ La `<a>`etiqueta define un hipervínculo. El hrefatributo especifica la URL de l
 
 **Aprenderá más sobre los enlaces en nuestro capítulo Enlaces HTML.**
 
-## El atributo src
+## El atributo `src`
 
 La `<img>`etiqueta se utiliza para incrustar una imagen en una página HTML. El srcatributo especifica la ruta a la imagen que se mostrará:
 
@@ -86,9 +86,9 @@ La `<img>`etiqueta se utiliza para incrustar una imagen en una página HTML. El 
 
 * **Consejo:** Casi siempre es mejor usar `URL relativas`. No se romperán si cambias de dominio.
 
-## Los atributos de ancho y alto
+## Los atributos de ``width y `heigth`
 
-La `<img>`etiqueta también debe contener los atributos widthy height, que especifican el ancho y la altura de la imagen (en píxeles):
+La `<img>`etiqueta también debe contener los atributos `width` y `height`, que especifican el ancho y la altura de la imagen (en píxeles):
 
 ### Ejemplo De img
 
@@ -96,7 +96,7 @@ La `<img>`etiqueta también debe contener los atributos widthy height, que espec
 <img src="img_girl.jpg" width="500" height="600">
 ```
 
-## El atributo alt
+## El atributo `alt`
 
 El atributo requerido altde la `<img>` etiqueta especifica un texto alternativo para una imagen si, por algún motivo, esta no se puede mostrar. Esto puede deberse a una conexión lenta, a un error en el srcatributo o a que el usuario utiliza un lector de pantalla.
 
@@ -112,9 +112,9 @@ Veamos lo que sucede si intentamos mostrar una imagen que no existe:
 <img src="img_typo.jpg" alt="Girl with a jacket">
 ```
 
-## El atributo de style
+## El atributo de `style`
 
-El styleatributo se utiliza para agregar estilos a un elemento, como color, fuente, tamaño y más.
+El atributo `style` se utiliza para agregar estilos a un elemento, como color, fuente, tamaño y más.
 
 ### Ejemplo De style
 
@@ -124,7 +124,7 @@ El styleatributo se utiliza para agregar estilos a un elemento, como color, fuen
 
 **Aprenderá más sobre los estilos en nuestro capítulo Estilos HTML.**
 
-## El atributo lang
+## El atributo `lang`
 
 Siempre debe incluir el langatributo dentro de la `<html>`etiqueta para declarar el idioma de la página web. Esto facilita la navegación en motores de búsqueda y navegadores.
 
@@ -154,7 +154,7 @@ El siguiente ejemplo especifica inglés como idioma y Estados Unidos como país:
 
 **Puede ver todos los códigos de idioma en nuestra Referencia de código de idioma HTML.**
 
-## El Atributo title
+## El Atributo `title`
 
 El atributo `title` define información adicional sobre un elemento.<br>El valor del atributo de título se mostrará como información sobre herramientas cuando pase el mouse sobre el elemento:
 
@@ -195,8 +195,8 @@ A veces es necesario usar comillas. Este ejemplo no mostrará correctamente el a
 
 ## ¿Comillas simples o dobles?
 
-Las comillas dobles alrededor de los valores de atributos son las más comunes en HTML, pero también se pueden utilizar comillas simples.<br>
-En algunas situaciones, cuando el valor del atributo en sí contiene comillas dobles, es necesario utilizar comillas simples:
+Las comillas dobles `" "` alrededor de los valores de atributos son las más comunes en HTML, pero también se pueden utilizar comillas simples.<br>
+En algunas situaciones, cuando el valor del atributo en sí contiene comillas dobles, es necesario utilizar comillas simples `' '`:
 
 ```html
 <p title='John "ShotGun" Nelson'>
@@ -210,14 +210,14 @@ O viceversa:
 
 ### Resumen del capítulo
 
-* Todos los elementos HTML pueden tener atributos
-* El hrefatributo de `<a>`especifica la URL de la página a la que va el enlace.
-* El srcatributo de `<img>`especifica la ruta a la imagen que se mostrará
-* Los atributos `height` y  `width` proporcionan información de tamaño para las imágenes`<img>`
-* El altatributo de `<img>`proporciona un texto alternativo para una imagen.
-* El styleatributo se utiliza para agregar estilos a un elemento, como color, fuente, tamaño y más.
-* El langatributo de la `<html>`etiqueta declara el idioma de la página web.
-* El titleatributo define información adicional sobre un elemento.
+* **Todos los elementos** ´HTML´ pueden tener atributos<br>
+* **El atributo href** de `<a>`especifica la URL de la página a la que va el enlace.<br>
+* **El atributo src** de `<img>`especifica la ruta a la imagen que se mostrará<br>
+* **Los atributos `height` y  `width` proporcionan información de tamaño para las imágenes`<img>`<br>
+* **El atributo alt** de `<img>`proporciona un texto alternativo para una imagen.<br>
+* **El atributo style** se utiliza para agregar estilos a un elemento, como color, fuente, tamaño y más.<br>
+* **El atributo lang** de la `<html>`etiqueta declara el idioma de la página web.<br>
+* **El atributo title** define información adicional sobre un elemento.
 
 <br></br>
 
