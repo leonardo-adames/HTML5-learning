@@ -60,7 +60,11 @@ HTML es el lenguaje estándar de marcado para crear páginas web.
 
 * Un elemento HTML se define mediante una etiqueta de inicio, algo de contenido y una etiqueta de final:
 
-`<tagname>` El contenido va aquí... `</tagname>`
+`<tagname>` El contenido va aquí... `</tagname>`<br>
+## Ejemplo
+<div align='center'>
+    <img src="https://github.com/user-attachments/assets/4bbd3722-95f1-4c7f-96f6-c8cdc293764b"/>
+</div>
 
 * El elemento HTML es todo, desde la etiqueta inicial hasta la etiqueta final:
 
@@ -91,7 +95,7 @@ HTML es el lenguaje estándar de marcado para crear páginas web.
 * A continuación se muestra una visualización de la estructura de una página HTML:
 
 <div align="center">
-   <img src="https://github.com/user-attachments/assets/bc4ceec2-3d56-4e9c-8e7c-dee1d96ac35d" /> 
+   <img width="770" height="543" alt="Image" src="https://github.com/user-attachments/assets/127b437f-7c99-40d4-bea9-dcb9b2bba885" /> 
 </div>
 
 ## Historia de HTML
