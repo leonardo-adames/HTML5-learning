@@ -1,10 +1,10 @@
-# BootCamp De HTML5 - Session 0
+<h1>BootCamp De HTML5 - Session 00</h1>
 
-## 0.1 Aprende HTML
+<h2>Aprende HTML</h2>
 
 * `HTML` es el lenguaje estándar de marcado para páginas web. Con `HTML` puedes crear tu propia página web, `HTML` es fácil de aprender, ¡te va a gustar!
 
-## Aprender a través de ejemplos
+### Aprender a través de ejemplos
 
 * Con nuestro editor "Pruébalo tú mismo", puedes editar el código HTML y ver la Resultado en el navegador:
 
@@ -25,12 +25,12 @@ Ejemplo
 </html>
 ```
 
-## IMPORTANT
+### IMPORTANT
 
 * Aquí les dejo el Link Directo a la plataforma `W3school` donde podran practicar con el editor en línea gratis, completar pruebas en fomato de preguntas y queries interactiva
 
 <https://www.w3schools.com/html/default.asp>
 
-## Referencias HTML
+### Referencias HTML
 
 * En W3Schools encontrarás referencias completas sobre elementos HTML, atributos, eventos, nombres de colores, entidades, conjuntos de caracteres, codificación de URL, Códigos de idiomas, mensajes HTTP, soporte para navegadores y más!!!

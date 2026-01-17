@@ -193,6 +193,10 @@ A veces es necesario usar comillas. Este ejemplo no mostrará correctamente el a
 <p title=Description of W3Schools>
 ```
 
+<div class="wd-embed" style="height: 300px; width: 100%">
+  <iframe allow="camera; clipboard-read; clipboard-write; encrypted-media; geolocation; microphone; midi;" loading="lazy" src="https://codepen.io/web-dot-dev/embed/GRGzbXR?height=300&amp;theme-id=dark&amp;default-tab=html%2Cresult&amp;editable=true" style="height: 100%; width: 100%; border: 0;" data-title="Pen GRGzbXR de web-dot-dev en Codepen"></iframe>
+</div>
+
 ## ¿Comillas simples o dobles?
 
 Las comillas dobles `" "` alrededor de los valores de atributos son las más comunes en HTML, pero también se pueden utilizar comillas simples.<br>
