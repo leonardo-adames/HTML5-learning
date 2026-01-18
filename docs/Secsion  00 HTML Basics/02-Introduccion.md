@@ -1,7 +1,7 @@
 <h1 align="center">BootCamp De HTML5 - Session 0</h1>
 <br><br>
 
-## 0.2 Introduución HTML
+## 02 Introduución HTML
 
 HTML es el lenguaje estándar de marcado para crear páginas web.
 

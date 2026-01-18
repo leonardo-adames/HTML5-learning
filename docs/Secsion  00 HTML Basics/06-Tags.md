@@ -1,11 +1,12 @@
-<h1 align="center">BootCamp De HTML5 Session 0 - Etiquetas en HTML</h1>
-<br><br>
+<h1>BootCamp De HTML5-Session 00 </h1>
+
+<h2>06 Etiquetas en HTML</h2>
 
 <p align='center'>
     <img src="https://github.com/user-attachments/assets/cf45795c-d5cc-4cc4-80d8-b6942db29f7b"; />
 </p>
 
-<br></br>
+<br>
 
 <h2 align='center'>Definición</h2>
 

@@ -1,6 +1,6 @@
 <h1 align="center">BootCamp De HTML5 Session-0</h1>
 
-<h2 align="center">0.5-Los Encabezados</h2>
+<h2 align="center">08-Los Encabezados</h2>
 
 <div align='center'>
 
